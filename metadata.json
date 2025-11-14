@@ -1,0 +1,5 @@
+{
+  "name": "QTI Question Bank Generator",
+  "description": "An AI-powered tool to convert plain text questions and answers into a QTI-compliant ZIP file for easy import into Canvas as a question bank.",
+  "requestFramePermissions": []
+}
